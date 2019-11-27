@@ -85,6 +85,7 @@ export default function SectionCarousel() {
             textAlign: "center",
             fontFamily: "'Playfair Display', serif"
           }}
+          className="carou_text"
         >
           Where We Worship
         </h1>

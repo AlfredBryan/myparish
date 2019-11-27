@@ -17,7 +17,7 @@ export class Pastor extends Component {
         <hr style={{ width: "10em", border: "3px solid green" }} />
         <div className="pastor_area">
           <div className="pastor_title">
-            <h1 style={{ marginTop: "4em", textAlign: "center" }}>
+            <h1>
               Fountain of Power
             </h1>
             <h4 className="text-center">Pastor incharge: Pst Peter Elumelu </h4>

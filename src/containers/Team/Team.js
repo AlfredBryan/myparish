@@ -35,7 +35,7 @@ export default function Team() {
             <br />
             <GridContainer>
               <GridItem xs={12} sm={2}>
-                <h6 className="text-center">
+                <h6 className="text-center new_size">
                   Pastor incharge: Pst Peter Elumelu
                 </h6>
                 <img
@@ -51,7 +51,7 @@ export default function Team() {
                 />
               </GridItem>
               <GridItem xs={12} sm={2} className={classes.marginLeft}>
-                <h6 className="text-center">
+                <h6 className="text-center new_size">
                   Pastor’s Wife : Deaconess Margaret Elumelu
                 </h6>
                 <img
@@ -68,7 +68,7 @@ export default function Team() {
                 />
               </GridItem>
               <GridItem xs={12} sm={2} className={classes.marginLeft}>
-                <h6 className="text-center">
+                <h6 className="text-center new_size">
                   Assistant Pastor: Pst Ojo Esemokhai Kingsley
                 </h6>
                 <img

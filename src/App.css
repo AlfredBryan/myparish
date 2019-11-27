@@ -8,17 +8,12 @@
 }
 
 .daddy_incharge {
-  width: 35em;
-  height: 35em;
+  width: 30em;
+  height: 30em;
 }
 
 .new_card_width {
-  width: 35em !important;
-}
-
-#inherit_img {
-  width: inherit;
-  height: inherit;
+  width: 30em !important;
 }
 
 .pastor_area {
@@ -26,10 +21,23 @@
   justify-content: space-between;
 }
 
+.pastor_title h1 {
+  font-size: 2em;
+}
+
 @media only screen and (max-width: 600px) {
   .daddy_incharge {
-    width: inherit;
-    height: 20em;
+    width: 16em !important;
+    height: 14em;
+  }
+
+  .pastor_title h1 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+
+  .pastor_title h4 {
+    font-size: 0.8em;
   }
 
   .align_center {
@@ -38,10 +46,14 @@
   }
 
   .new_card_width {
-    width: inherit !important;
+    width: 16em !important;
   }
 
   .pastor_area {
     display: block;
+  }
+
+  .new_size {
+    font-size: 0.8em !important;
   }
 }

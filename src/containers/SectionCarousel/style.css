@@ -2,3 +2,15 @@
     width: 100% !important;
     height: 25em;
 }
+
+@media only screen and (max-width: 600px) {
+    .carou_img {
+        width: 16em !important;
+        height: 14em;
+    }
+
+    .carou_text {
+        font-size: 2em !important;
+        text-align: center !important;
+    }
+}
