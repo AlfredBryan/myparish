@@ -12,6 +12,8 @@
     .carou_card {
         width: 15.5em !important;
         height: 13em !important;
+        margin-left: 1.8em;
+
     }
 
     .carou_text {

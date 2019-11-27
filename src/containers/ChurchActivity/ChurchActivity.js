@@ -64,7 +64,7 @@ export default function ChurchActivity() {
                           tabIcon: Schedule,
                           tabContent: (
                             <span className="church_text">
-                              Digging Deep: 6:30pm - 8:30pm
+                              <p>Digging Deep: 6:30pm - 8:30pm</p>
                               <p>Faith Clinic: 6:30pm - 8:30pm</p>
                               <p>Sunday Service: 8am - 11:30am</p>
                             </span>

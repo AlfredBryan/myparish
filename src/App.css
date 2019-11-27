@@ -48,6 +48,7 @@
   .new_card_width {
     width: 15.5em !important;
     height: 13em !important;
+    margin-left: 1.8em;
   }
 
   .pastor_area {
@@ -71,10 +72,14 @@
   #inherit_img {
     width: 15.5em !important;
     height: 13em !important;
+   margin-left: 1em;
   }
 
   .resize_img {
     width: 15.5em !important;
     height: 13em !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
