@@ -64,6 +64,7 @@
 
   .church_text {
     font-size: 0.6em !important;
+    text-align: left;
   }
 
   #inherit_img {
