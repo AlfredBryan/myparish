@@ -15,17 +15,17 @@ export class Pastor extends Component {
           Our Daddy
         </h1>
         <hr style={{ width: "10em", border: "3px solid green" }} />
-        <div className="row d-flex">
-          <div className="col-md-6">
-            <h1 style={{ marginTop: "5em" }} className="text-center">
+        <div className="pastor_area">
+          <div className="pastor_title">
+            <h1 style={{ marginTop: "4em", textAlign: "center" }}>
               Fountain of Power
             </h1>
             <h4 className="text-center">Pastor incharge: Pst Peter Elumelu </h4>
-            <p style={{ color: "green" }} className="text-center">
+            <p style={{ color: "green", textAlign: "center" }}>
               An Anointed man of God
             </p>
           </div>
-          <div className="col-md-6">
+          <div className="pastor_img">
             <Card className="new_card_width">
               <img
                 className="daddy_incharge"

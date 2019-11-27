@@ -21,6 +21,11 @@
   height: inherit;
 }
 
+.pastor_area {
+  display: flex;
+  justify-content: space-between;
+}
+
 @media only screen and (max-width: 600px) {
   .daddy_incharge {
     width: inherit;
@@ -34,5 +39,9 @@
 
   .new_card_width {
     width: inherit !important;
+  }
+
+  .pastor_area {
+    display: block;
   }
 }
