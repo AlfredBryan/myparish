@@ -23,8 +23,8 @@
 
 @media only screen and (max-width: 600px) {
   .daddy_incharge {
-    width: 15em;
-    height: 15em;
+    width: inherit;
+    height: 20em;
   }
 
   .align_center {
@@ -33,6 +33,6 @@
   }
 
   .new_card_width {
-    width: 15em !important;
+    width: inherit !important;
   }
 }

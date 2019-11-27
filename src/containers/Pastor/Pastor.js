@@ -15,7 +15,7 @@ export class Pastor extends Component {
           Our Daddy
         </h1>
         <hr style={{ width: "10em", border: "3px solid green" }} />
-        <div className="row">
+        <div className="row d-flex">
           <div className="col-md-6">
             <h1 style={{ marginTop: "5em" }} className="text-center">
               Fountain of Power

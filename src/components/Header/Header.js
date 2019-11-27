@@ -68,7 +68,7 @@ export default function Header(props) {
       />
       <h4
         style={{
-          color: "white",
+          color: "green",
           paddingLeft: "1em",
           fontWeight: "900",
           paddingTop: "0.5em"
