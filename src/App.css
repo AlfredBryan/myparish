@@ -1,0 +1,38 @@
+.align_center {
+  display: inline-block;
+  margin-left: 25em;
+}
+
+.align_activity {
+  text-align: center;
+}
+
+.daddy_incharge {
+  width: 35em;
+  height: 35em;
+}
+
+.new_card_width {
+  width: 35em !important;
+}
+
+#inherit_img {
+  width: inherit;
+  height: inherit;
+}
+
+@media only screen and (max-width: 600px) {
+  .daddy_incharge {
+    width: 15em;
+    height: 15em;
+  }
+
+  .align_center {
+    display: inline-block;
+    margin-left: 0em;
+  }
+
+  .new_card_width {
+    width: 15em !important;
+  }
+}
