@@ -48,7 +48,7 @@
   .new_card_width {
     width: 15.5em !important;
     height: 13em !important;
-    margin-left: 1.8em;
+    margin-left: 2.2em;
   }
 
   .pastor_area {
@@ -66,13 +66,13 @@
 
   .church_text {
     font-size: 0.6em !important;
-    text-align: left;
+    text-align: center;
   }
 
   #inherit_img {
     width: 15.5em !important;
     height: 13em !important;
-   margin-left: 0.69em;
+    margin-left: 0.9em;
   }
 
   .resize_img {
