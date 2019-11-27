@@ -56,4 +56,12 @@
   .new_size {
     font-size: 0.8em !important;
   }
+
+  .church_act {
+    font-size: 1.5em !important;
+  }
+
+  .church_text {
+    font-size: 0.6em !important;
+  }
 }

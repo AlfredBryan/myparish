@@ -24,7 +24,7 @@ export default function ChurchActivity() {
         <div>
           <div className="text-center" id="navigation-pills">
             <div className={classes.title}>
-              <h3>Church Activities</h3>
+              <h3 className="church_act">Church Activities</h3>
               <hr style={{ width: "10em", border: "3px solid green" }} />
             </div>
             <div className="align_activity">
@@ -38,7 +38,7 @@ export default function ChurchActivity() {
                           tabButton: "Weekly",
                           tabIcon: Dashboard,
                           tabContent: (
-                            <span>
+                            <span className="church_text">
                               <p>
                                 Tuesdays: Digging Deep <br />
                                 This is the time we study the word of God in
@@ -63,7 +63,7 @@ export default function ChurchActivity() {
                           tabButton: "Schedule",
                           tabIcon: Schedule,
                           tabContent: (
-                            <span>
+                            <span className="church_text">
                               Digging Deep: 6:30pm - 8:30pm
                               <p>Faith Clinic: 6:30pm - 8:30pm</p>
                               <p>Sunday Service: 8am - 11:30am</p>
@@ -74,7 +74,7 @@ export default function ChurchActivity() {
                           tabButton: "Tasks",
                           tabIcon: List,
                           tabContent: (
-                            <span>
+                            <span className="church_text">
                               <p>Fast And Pray</p>
                               <br />
                               <p>
