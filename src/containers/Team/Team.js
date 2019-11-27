@@ -43,11 +43,12 @@ export default function Team() {
                   alt="..."
                   className={
                     classes.imgRaised +
-                    " " +
+                    "resize_image" +
                     classes.imgRounded +
                     " " +
                     classes.imgFluid
                   }
+                  id="inherit_img"
                 />
               </GridItem>
               <GridItem xs={12} sm={2} className={classes.marginLeft}>
@@ -59,7 +60,7 @@ export default function Team() {
                   alt="..."
                   className={
                     classes.imgRaised +
-                    " " +
+                    "resize_image" +
                     classes.imgRounded +
                     " " +
                     classes.imgFluid
@@ -76,11 +77,12 @@ export default function Team() {
                   alt="..."
                   className={
                     classes.imgRaised +
-                    " " +
+                    "resize_img" +
                     classes.imgRounded +
                     " " +
                     classes.imgFluid
                   }
+                  id="inherit_img"
                 />
               </GridItem>
             </GridContainer>

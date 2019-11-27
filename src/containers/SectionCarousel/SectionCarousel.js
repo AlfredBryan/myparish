@@ -92,7 +92,7 @@ export default function SectionCarousel() {
         <hr style={{ width: "10em", border: "3px solid green" }} />
         <GridContainer>
           <GridItem xs={12} sm={12} md={8} className={classes.marginAuto}>
-            <Card carousel>
+            <Card className="carou_card" carousel>
               <Carousel
                 activeIndex={activeIndex}
                 next={next}

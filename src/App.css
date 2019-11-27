@@ -27,8 +27,8 @@
 
 @media only screen and (max-width: 600px) {
   .daddy_incharge {
-    width: 16em !important;
-    height: 14em;
+    width: 15.5em !important;
+    height: 13em !important;
   }
 
   .pastor_title h1 {
@@ -46,7 +46,8 @@
   }
 
   .new_card_width {
-    width: 16em !important;
+    width: 15.5em !important;
+    height: 13em !important;
   }
 
   .pastor_area {
@@ -63,5 +64,15 @@
 
   .church_text {
     font-size: 0.6em !important;
+  }
+
+  #inherit_img {
+    width: 15.5em !important;
+    height: 13em !important;
+  }
+
+  .resize_img {
+    width: 15.5em !important;
+    height: 13em !important;
   }
 }
